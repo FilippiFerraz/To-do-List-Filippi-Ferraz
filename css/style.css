@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.6;
+}
+.btn-addtarefa button{
+    padding: 5px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    background-color:#0e8ce0;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    line-height: 70%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.btn-ocultar-tarefa button{
+    padding: 10px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    background-color:#0e8ce0;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    line-height: 70%;
+    margin-top: 7%;
+    margin-left: 10px;
+}
+
+body{
+    background-color: #fff;
+    height: 100vh;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+.botao-edicao{
+    padding: 3px 13px;
+    font-size: 13px;
+    font-weight: 700;
+    background-color:#09ddcbb2;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    line-height: 60%;
+    margin-left: 20px;
+}
+h2.titulo span{
+    color: #0e8ce0;
+}
+
